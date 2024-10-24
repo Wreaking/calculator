@@ -1,2 +1,2 @@
 # calculator
-Simple calculator for beginners
+This project owned by Abdul Qaadir and Abid Ali
