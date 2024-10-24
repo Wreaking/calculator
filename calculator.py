@@ -2,7 +2,7 @@
 import math
 arithmetic_type = input("Do you want to use Arithmetic Operator (Y/N)?: ").title()
 
-if arithmetic_type == "Y":
+if arithmetic_type in ["Y", "Yes",  "YES", "Yep", "yep", "Yep Operator", "Yup"]:
     operator_type = input("Which Arithmetic Operator do you want to use?: ")
     result_type = input("Do you want the answer in integer form or float form (I/F)?: ").title()
     num1 = int(input("First Number: "))
@@ -50,7 +50,7 @@ if arithmetic_type == "Y":
 
 elif arithmetic_type in ["N", "n", "No", "no", "NO", "Nope", "nope", "Nope"]:
     comparison_type = input("Do you want to use Comparison Operator (Y/N)?: ").title()
-    if comparison_type == "Y":
+    if comparison_type in ["Y", "Yes",  "YES", "Yep", "yep", "Yep Operator", "Yup"]:
         operator_type = input("Which Comparison Operator do you want to use?: ").title()
         num1 = int(input("First Number: "))
         num2 = int(input("Second Number: "))
@@ -87,7 +87,7 @@ elif arithmetic_type in ["N", "n", "No", "no", "NO", "Nope", "nope", "Nope"]:
 
     elif comparison_type in ["N", "n", "No", "no", "NO", "Nope", "nope", "Nope Operator", "Nope"]:
         trignometry_operator = input("Do you want to use trigonometric expressions (Y/N)?: ").title()
-        if trignometry_operator == "Y":
+        if trignometry_operator in ["Y", "Yes",  "YES", "Yep", "yep", "Yep Operator", "Yup"]:
             operator_type = input("Which trignometry operator do you want to use?: ")
             num1 = int(input("First Number: "))
             if operator_type in ["sin", "Sin", "Sine", "Sine Operator"]:
@@ -109,7 +109,7 @@ elif arithmetic_type in ["N", "n", "No", "no", "NO", "Nope", "nope", "Nope"]:
             elif operator_type in ["atanh", "Atanh", "Arctanh", "Arctanh Operator"]:
                 print(math.atanh(num1))
 
-    else:
-        print("Then why are you using calculator ( -.-)")
-        exit()
+        elif trignometry_operator in ["N", "n", "No", "no", "NO", "Nope", "nope", "Nope Operator", "Nope"]:
+            print("Then why are you using the calculator ( -.-)")
+            exit()
 
