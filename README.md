@@ -55,6 +55,4 @@ This project is licensed under the Apache License. See the [LICENSE](LICENSE) fi
 ## Acknowledgments
 
 - Thanks to [PrettyTable](https://pypi.org/project/prettytable/) for making table outputs more presentable.
-- Inspired by various Python projects and tutorials.
-
 ---
