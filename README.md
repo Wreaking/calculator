@@ -50,7 +50,7 @@ Welcome to the **Simple Calculator** project! This interactive tool is designed 
 ## Contributors
 
 - [Abdul Qaadir](https://github.com/Wreaking)
-- [Mhd.Abid Ali](https://github.com/friendusername)
+- [Mhd.Abid Ali](https://github.com/Abdgith)
 
 ## Screenshots
 
