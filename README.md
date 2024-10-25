@@ -11,15 +11,7 @@ Welcome to the **Simple Calculator** project! This interactive tool is designed 
 
 ## Algorithm
 
-1. **Start**: Initialize the calculator.
-2. **User Input**: Ask the user if they want to perform arithmetic, comparison, or trigonometric calculations.
-3. **Process Input**: Based on user selection:
-   - For arithmetic: Ask for two numbers and the operation.
-   - For comparison: Ask for two numbers and the comparison operator.
-   - For trigonometric: Ask for one number and the function.
-4. **Calculate**: Perform the selected operation.
-5. **Display Result**: Show the results in a formatted table.
-6. **Repeat or Exit**: Ask the user if they want to perform another calculation or exit.
+*Soon*
 
 ## Flowchart
 
@@ -31,7 +23,7 @@ Welcome to the **Simple Calculator** project! This interactive tool is designed 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/Wreaking/calculator.git
    ```
 
 2. **Navigate to the Project Directory**:
