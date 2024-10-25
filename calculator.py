@@ -211,7 +211,7 @@ elif arithmetic_type in ["N", "n", "No", "no", "NO", "Nope", "nope"]:
             exit()
 
         else:
-            print("Invalid answer, Try again later :)")
+            print("Invalid input, Try again later :)")
 
 else:
-    print("Invalid answer, Try again later :)")
+    print("Invalid input, Try again later :)")
