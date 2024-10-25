@@ -11,7 +11,49 @@ Welcome to the **Simple Calculator** project! This interactive tool is designed 
 
 ## Algorithm
 
-*Soon*
+1. Start
+
+3. Display Welcome Message
+- Print a welcome message with options for operations.
+
+3. Prompt for Arithmetic Operations
+- Ask the user if they want to perform arithmetic operations (Y/N).
+
+4. If User Chooses Arithmetic (Y)
+Prompt for the type of arithmetic operator (e.g., +, -, *, /, %, **).
+Prompt for result type (Integer/Float).
+Input two numbers (num1` and `num2').
+
+5. Perform Selected Arithmetic Operation
+- If Addition: Calculate result and display in a table.
+- If Subtraction: Calculate result and display in a table.
+- If Multiplication: Calculate result and display in a table.
+- If Division:
+- Check for division by zero. If valid, calculate and display result.
+- If Modulus: Calculate result and display in a table.
+- If Exponentiation: Calculate result and display in a table.
+- If Floor Division: Calculate result and display in a table.
+- Else: Print invalid operator message.
+- 
+6. If User Chooses Comparison (N)
+Prompt for comparison operations (Y/N).
+- If user chooses (Y):
+Input two numbers (num1` and `num2`).
+Prompt for comparison operator (e.g., ==, >, <).
+Evaluate and display result in a table.
+
+7. If User Chooses Trigonometry (N
+Prompt for trigonometric operations (Y/N).
+If user chooses (Y):
+- Input angle in degrees (num1').
+Convert angle to radians.
+Prompt for trigonometric operator (e.g., Sin, Cos, Tan).
+Calculate and display result in a table.
+
+8. If User Chooses No Operations
+Display a message asking why they are using the calculator.
+
+10. End
 
 ## Flowchart
 
