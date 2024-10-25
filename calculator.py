@@ -1,3 +1,5 @@
+#NOTE: we will be using functions and loops to minimize the size of the script soon!
+
 from prettytable import PrettyTable
 import math
 
