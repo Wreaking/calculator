@@ -57,9 +57,8 @@ Display a message asking why they are using the calculator.
 
 ## Flowchart
 
-*Soon*
+![image](https://github.com/user-attachments/assets/5173904b-45ee-4c2b-8a0c-2bddbbcec223)
 
-![Flowchart](path_to_your_flowchart_image)
 
 ## How to Use
 
