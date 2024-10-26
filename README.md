@@ -88,7 +88,15 @@ Display a message asking why they are using the calculator.
 
 ## Screenshots
 
-*Include screenshots of the calculator in action to showcase its functionality.*
+- Arthimethic Operation:
+![image](https://github.com/user-attachments/assets/52e7b793-d4c0-4d29-b16d-21d21b6dac52)
+
+- Comparision Operation:
+![image](https://github.com/user-attachments/assets/8e8187a3-52c8-40bd-a2bb-c5cd1c59329f)
+
+- Trignometric Operation:
+![image](https://github.com/user-attachments/assets/468093fa-0f65-4a0a-bceb-047fba1e2365)
+
 
 ## License
 
